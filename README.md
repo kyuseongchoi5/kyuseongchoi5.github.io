@@ -16,7 +16,8 @@ Mathematics, BS, Korea University
 
 ## Published
 
-[Robust data integration from multiple external sources for generalized linear models with binary outcomes(Biometrics 2024)](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)
+[Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)
+\textit{Biometrics} 
 
 [Data integration: exploiting ratios of parameter estimates from a reduced external model(Biometrika 2023)](https://academic.oup.com/biomet/article-abstract/110/1/119/6567343)
 
