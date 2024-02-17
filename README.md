@@ -18,9 +18,13 @@ Mathematics, BS, Korea University
 
 [Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)
 
+Kyuseong Choi, Jeremy M.G. Taylor, Peisong Han
+
 _Biometrics_, Volume 80, Issue 1, March 2024 
 
 [Data integration: exploiting ratios of parameter estimates from a reduced external model](https://academic.oup.com/biomet/article-abstract/110/1/119/6567343)
+
+Jeremy M.G. Taylor, Kyuseong Choi, Peisong Han
 
 _Biometrika_, Volume 110, Issue 1, March 2023, Pages 119-134
 
