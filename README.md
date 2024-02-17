@@ -1,18 +1,14 @@
-# kyuseongchoi5.github.io
 
-Hello, I am a 3rd year Statistics PhD student at Cornell University. I am advised by 
 
-I received M.S. in Biostatistics from University of Michigan, Ann Arbor and B
-
+I am a Statistics PhD student at Cornell University. My research interests are sequential decision making and non-parametric inference, with applications to personalized decision making. I am co-advised by [Raaz Dwivedi](https://raazdwivedi.github.io) and [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0).
 
 ## Education
 
 Statistics, PhD, Cornell University
 
-Biostatistics, MS, University of Michigan, Ann Arbor
+2021: Biostatistics, MS, University of Michigan, Ann Arbor
 
-Business Administration, BBA, Korea University
-Mathematics, BS, Korea University
+2019: BBA, Business Administration, BS, Mathematics, Korea University
 
 ## Published
 
@@ -30,4 +26,19 @@ _Biometrika_, Volume 110, Issue 1, March 2023, Pages 119-134
 
 
 ### Working Papers
+
+Wild regenerative block bootstrap for Harris recurrent Markov Chains
+
+Kyuseong Choi, Gabriela Ciolek, Kengo Kato
+
+### Working Projects
+
+Distributional Nearest Neighbors with Factor models(with Raaz Dwivedi)
+
+
+
+
+
+
+
 
