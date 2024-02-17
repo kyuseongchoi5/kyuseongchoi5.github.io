@@ -2,7 +2,11 @@
 
 ### Education
 
+Statistics, PhD
+
 ### Published
+
+
 
 ### Working Papers
 
