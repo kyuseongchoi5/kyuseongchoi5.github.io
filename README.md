@@ -6,17 +6,17 @@ I am a Statistics PhD student at Cornell University. My research interests are s
 
 Statistics, PhD, Cornell University
 
-2021: Biostatistics, MS, University of Michigan, Ann Arbor
+2021: Biostatistics, MS, University of Michigan, Ann Arbor (Advisors: [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
 
 2019: BBA, Business Administration, BS, Mathematics, Korea University
 
 ## Published
 
-[Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)(with Jeremy M.G. Taylor, Peisong Han)
+[Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)(with [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
 
 _Biometrics_, Volume 80, Issue 1, March 2024 
 
-[Data integration: exploiting ratios of parameter estimates from a reduced external model](https://academic.oup.com/biomet/article-abstract/110/1/119/6567343)(with Jeremy M.G. Taylor, Peisong Han)
+[Data integration: exploiting ratios of parameter estimates from a reduced external model](https://academic.oup.com/biomet/article-abstract/110/1/119/6567343)(with [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
 
 _Biometrika_, Volume 110, Issue 1, March 2023, Pages 119-134
 
