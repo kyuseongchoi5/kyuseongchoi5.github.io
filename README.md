@@ -13,6 +13,8 @@ Statistics, PhD, Cornell University
 
 ## Published
 
+[Learning counterfactual distribution via kernel nearest neighbors](https://arxiv.org/abs/2410.13381)(with Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
+
 [Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)(with [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
 
 _Biometrics_, Volume 80, Issue 1, March 2024 
@@ -30,9 +32,7 @@ Wild regenerative block bootstrap for Harris recurrent Markov Chains(with Gabrie
 
 Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression(with [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0))
 
-Distributional Nearest Neighbors in Factor models(with [Raaz Dwivedi](https://raazdwivedi.github.io))
-
-Personalized treatment effect estimation for dynamic treatment under factor model with covariates(with [Raaz Dwivedi](https://raazdwivedi.github.io))
+Personalized treatment effect estimation with covariates(with [Raaz Dwivedi](https://raazdwivedi.github.io))
 
 
 
