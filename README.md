@@ -11,10 +11,10 @@ Statistics, PhD, Cornell University
 
 2019: BBA, Business Administration, BS, Mathematics, Korea University
 
-## Published
-
+## Preprint
 [Learning counterfactual distribution via kernel nearest neighbors](https://arxiv.org/abs/2410.13381)(with Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
 
+## Published
 [Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159)(with [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
 
 _Biometrics_, Volume 80, Issue 1, March 2024 
