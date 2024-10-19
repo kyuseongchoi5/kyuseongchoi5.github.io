@@ -14,7 +14,7 @@ Statistics, PhD, Cornell University
 ## Preprint
 [Learning counterfactual distribution via kernel nearest neighbors](https://arxiv.org/abs/2410.13381)(with Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
 
-[Supervised kernel thinning](https://arxiv.org/abs/2410.13749)(with Albert Gong, [Raaz Dwivedi](https://raazdwivedi.github.io))
+[Supervised kernel thinning](https://arxiv.org/abs/2410.13749)(with Albert Gong, [Raaz Dwivedi](https://raazdwivedi.github.io)), Accepted to Neurips 2024
 
 [Distributional matrix completion via nearest neighbors in the Wasserstein space](https://arxiv.org/abs/2410.13112)(with Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
 
