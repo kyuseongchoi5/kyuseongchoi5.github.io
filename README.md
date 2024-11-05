@@ -30,13 +30,13 @@ _Biometrika_, Volume 110, Issue 1, March 2023, Pages 119-134
 
 ### Working Papers
 
-Wild regenerative block bootstrap for Harris recurrent Markov Chains(with Gabriela Ciolek, [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0))
+Wild regenerative block bootstrap for Harris recurrent Markov Chains (with Gabriela Ciolek, [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0))
 
 ### Working Projects
 
-Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression(with [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0))
+Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression (with [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0))
 
-Personalized treatment effect estimation with covariates(with [Raaz Dwivedi](https://raazdwivedi.github.io))
+Contextual matrix completion (with [Raaz Dwivedi](https://raazdwivedi.github.io))
 
 
 
