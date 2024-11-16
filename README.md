@@ -1,7 +1,7 @@
 
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
-I am a Statistics PhD student at Cornell Tech. My research interests are sequential decision making and non-parametric inference, with applications to personalized decision making. I am co-advised by [Raaz Dwivedi](https://raazdwivedi.github.io) and [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0).
+I am a Statistics PhD student at Cornell Tech. My research interests are sequential decision making and non-parametric inference, with applications to personalized decision making. I am co-advised by [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0) and [Raaz Dwivedi](https://raazdwivedi.github.io).
 
 ## Education
 
