@@ -19,15 +19,12 @@ Statistics, PhD, Cornell Tech
 ## Published
 
 [Supervised kernel thinning](https://arxiv.org/abs/2410.13749) (Albert Gong, Kyuseong Choi, [Raaz Dwivedi](https://raazdwivedi.github.io))
-
 _Neurips 2024_
 
 [Robust data integration from multiple external sources for generalized linear models with binary outcomes](https://academic.oup.com/biometrics/article/80/1/ujad005/7609159) (Kyuseong Choi, [Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
-
 _Biometrics_, Volume 80, Issue 1, March 2024 
 
 [Data integration: exploiting ratios of parameter estimates from a reduced external model](https://academic.oup.com/biomet/article-abstract/110/1/119/6567343) ([Jeremy M.G. Taylor](https://sph.umich.edu/faculty-profiles/taylor-jeremy.html), Kyuseong Choi, [Peisong Han](https://sph.umich.edu/faculty-profiles/han-peisong.html))
-
 _Biometrika_, Volume 110, Issue 1, March 2023, Pages 119-134
 
 
