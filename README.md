@@ -12,7 +12,7 @@ Statistics, PhD, Cornell Tech
 2019: BBA, Business Administration, BS, Mathematics, Korea University
 
 ## Preprint
-[Learning counterfactual distribution via kernel nearest neighbors] (https://arxiv.org/abs/2410.13381)(Kyuseong Choi, Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
+[Learning counterfactual distribution via kernel nearest neighbors](https://arxiv.org/abs/2410.13381) (Kyuseong Choi, Jacob Feitelberg, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
 
 [Distributional matrix completion via nearest neighbors in the Wasserstein space](https://arxiv.org/abs/2410.13112) (Jacob Feitelberg, Kyuseong Choi, [Anish Agarwal](https://sites.google.com/view/anishagarwal/home), [Raaz Dwivedi](https://raazdwivedi.github.io))
 
