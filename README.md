@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <img src="images/profile.jpg" alt="Kyuseong Choi" width="120" style="border-radius: 50%;" />
+  <img src="profile.jpg" alt="Kyuseong Choi" width="120" style="border-radius: 50%;" />
 </p>
 
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
