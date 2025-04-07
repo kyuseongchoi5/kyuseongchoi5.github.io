@@ -1,11 +1,19 @@
-Kyuseong Choi  
-[View My GitHub Profile](https://github.com/YOUR-USERNAME)
-
-<img src="profile.png" alt="Kyuseong Choi" width="120" style="border-radius: 50%; margin-top: 10px;" />
-
 <meta name="google-site-verification" content="Wby9p_eTBuhZCnwZryTc8LsCvXkjgZVVj4wgx9D_e90" />
 
-I am a Statistics PhD student at Cornell Tech. My research interests are causal inference and non-parametric inference, with applications to personalized decision making. I am co-advised by [Raaz Dwivedi](https://raazdwivedi.github.io) and [Kengo Kato](https://sites.google.com/site/kkatostat/home/research?authuser=0). 
+<h1 align="center">Kyuseong Choi</h1>
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME">View My GitHub Profile</a>
+</p>
+
+<p align="center">
+  <img src="profile.png" width="150" alt="Kyuseong Choi" style="border-radius: 50%; margin-top: 10px;" />
+</p>
+
+<p align="center">
+  I am a Statistics PhD student at Cornell Tech. My research interests are causal inference and non-parametric inference, with applications to personalized decision making. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+</p>
+
 
 ## Education
 
