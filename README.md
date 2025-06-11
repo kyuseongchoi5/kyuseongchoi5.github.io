@@ -229,11 +229,8 @@
             <div class="location">📍 Cornell Tech</div>
             
             <div class="links">
-                <a href="https://github.com/YOUR-USERNAME">🔗 GitHub</a>
-                <a href="mailto:your.email@cornell.edu">📧 Email</a>
-                <a href="#">📄 CV</a>
-                <a href="#">🎓 Google Scholar</a>
-                <a href="#">🔗 ORCID</a>
+                <a href="mailto:kc728@cornell.edu">Email</a>
+                <a href="https://scholar.google.com/citations?user=YIlTXCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
             </div>
         </div>
 
