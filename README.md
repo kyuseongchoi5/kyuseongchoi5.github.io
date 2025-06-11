@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -219,6 +218,7 @@
             <div class="links">
                 <a href="mailto:kc728@cornell.edu">📧 Email</a>
                 <a href="https://scholar.google.com/citations?user=YIlTXCIAAAAJ&hl=en&oi=ao">🎓 Google Scholar</a>
+                <a href="https://www.linkedin.com/in/kyuseong-choi-ab532a1b4/">💼 LinkedIn</a>
                 <a href="cv.pdf">📄 CV</a>
             </div>
         </div>
