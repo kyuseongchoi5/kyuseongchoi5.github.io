@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -180,19 +181,6 @@
             font-size: 0.9rem;
         }
 
-        .research-areas {
-            margin-bottom: 1rem;
-        }
-
-        .research-areas ol {
-            padding-left: 1.2rem;
-        }
-
-        .research-areas li {
-            margin-bottom: 0.5rem;
-            line-height: 1.5;
-        }
-
         @media (max-width: 768px) {
             body {
                 padding: 1rem;
@@ -226,11 +214,12 @@
             <img src="profile.png" alt="Kyuseong Choi" class="profile-image" />
             <div class="name">Kyuseong Choi</div>
             <div class="title">Statistics PhD Candidate</div>
-            <div class="location"> Cornell Tech</div>
+            <div class="location">📍 Cornell Tech</div>
             
             <div class="links">
-                <a href="mailto:kc728@cornell.edu">Email</a>
-                <a href="https://scholar.google.com/citations?user=YIlTXCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
+                <a href="mailto:kc728@cornell.edu">📧 Email</a>
+                <a href="https://scholar.google.com/citations?user=YIlTXCIAAAAJ&hl=en&oi=ao">🎓 Google Scholar</a>
+                <a href="cv.pdf">📄 CV</a>
             </div>
         </div>
 
@@ -239,14 +228,18 @@
                 <a href="#about" class="active">About</a>
                 <a href="#research">Research</a>
                 <a href="#publications">Publications</a>
-                <a href="#">CV</a>
+                <a href="cv.pdf">CV</a>
             </nav>
 
-            <h1>Welcome!</h1>
-            
-            <div class="bio">
-                Currently, I am a Statistics PhD student at Cornell Tech. My current research interests are peresonalization in causal inference (via partial identification) and central limit theorems for high-dimensional data points. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>. 
-            <div class="section">
+            <section id="about">
+                <h1>Welcome!</h1>
+                
+                <div class="bio">
+                    Currently, I am a Statistics PhD student at Cornell Tech. My current research interests are personalization in causal inference (via partial identification) and central limit theorems for high-dimensional data points. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+                </div>
+            </section>
+
+            <div class="section" id="education">
                 <h2>Education</h2>
                 <div class="education-item">
                     <div class="degree">Statistics, PhD, Cornell Tech (2021 - Present)</div>
@@ -259,7 +252,7 @@
                 </div>
             </div>
 
-            <div class="section">
+            <div class="section" id="publications">
                 <h2>Preprints</h2>
                 <div class="paper-item">
                     <div class="paper-title">
