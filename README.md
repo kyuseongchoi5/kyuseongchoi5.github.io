@@ -245,13 +245,7 @@
             <h1>Welcome!</h1>
             
             <div class="bio">
-                Currently, I am a Statistics PhD student at Cornell Tech. My research interests are causal inference and non-parametric inference, with applications to personalized decision making. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>. My research is focused on developing statistical methods for causal inference and personalized decision making. I am particularly interested in:
-                <ol>
-                    <li>Causal inference: Distributional and non-linear causal effect, Partial identification, Evaluation of personalization</li>
-                    <li>High-dimensional Central Limit Theorems: Markov chains, Reproducing kernel Hilbert spaces</li>
-                </ol>
-            </div>
-            
+                Currently, I am a Statistics PhD student at Cornell Tech. My current research interests are peresonalization in causal inference (via partial identification) and central limit theorems for high-dimensional data points. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>. 
             <div class="section">
                 <h2>Education</h2>
                 <div class="education-item">
@@ -259,10 +253,9 @@
                 </div>
                 <div class="education-item">
                     <div class="degree">Biostatistics, MS, University of Michigan, Ann Arbor (2021)</div>
-                    <div class="institution">Advisors: Jeremy M.G. Taylor, Peisong Han</div>
                 </div>
                 <div class="education-item">
-                    <div class="degree">BBA Business Administration, BS Mathematics, Korea University (2019)</div>
+                    <div class="degree">BBA Business Administration, Korea University (2019)</div>
                 </div>
             </div>
 
@@ -279,6 +272,12 @@
                         <a href="https://arxiv.org/abs/2410.13112">Distributional matrix completion via nearest neighbors in the Wasserstein space</a>
                     </div>
                     <div class="authors">Jacob Feitelberg, Kyuseong Choi, Anish Agarwal, Raaz Dwivedi</div>
+                </div>
+                <div class="paper-item">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2506.04166">N2: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion</a>
+                    </div>
+                    <div class="authors">Caleb Chin, Aashish Khubchandani, Harshvardhan Maskara, Kyuseong Choi, Jacob Feitelberg, Albert Gong, Manit Paul, Tathagata Sadhukhan, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
             </div>
 
@@ -313,17 +312,9 @@
                     <div class="paper-title">Wild regenerative block bootstrap for Harris recurrent Markov Chains</div>
                     <div class="authors">Kyuseong Choi, Gabriela Ciolek, Kengo Kato</div>
                 </div>
-            </div>
-
-            <div class="section">
-                <h2>Working Projects</h2>
                 <div class="paper-item">
                     <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
                     <div class="authors">Kyuseong Choi, Kengo Kato</div>
-                </div>
-                <div class="paper-item">
-                    <div class="paper-title">Contextual matrix completion</div>
-                    <div class="authors">Kyuseong Choi, Raaz Dwivedi</div>
                 </div>
             </div>
         </div>
