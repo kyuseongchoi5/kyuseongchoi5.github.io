@@ -225,8 +225,8 @@
         <div class="profile-section">
             <img src="profile.png" alt="Kyuseong Choi" class="profile-image" />
             <div class="name">Kyuseong Choi</div>
-            <div class="title">Statistics PhD Student</div>
-            <div class="location">📍 Cornell Tech</div>
+            <div class="title">Statistics PhD Candidate</div>
+            <div class="location"> Cornell Tech</div>
             
             <div class="links">
                 <a href="mailto:kc728@cornell.edu">Email</a>
@@ -236,28 +236,22 @@
 
         <div class="main-content">
             <nav class="nav">
-                <a href="#" class="active">About</a>
-                <a href="#">Research</a>
-                <a href="#">Publications</a>
+                <a href="#about" class="active">About</a>
+                <a href="#research">Research</a>
+                <a href="#publications">Publications</a>
                 <a href="#">CV</a>
             </nav>
 
             <h1>Welcome!</h1>
             
             <div class="bio">
-                Currently, I am a Statistics PhD student at Cornell Tech. My research interests are causal inference and non-parametric inference, with applications to personalized decision making. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
-            </div>
-
-            <h2>Research Interests</h2>
-            <div class="research-areas">
-                My research is focused on developing statistical methods for causal inference and personalized decision making. I am particularly interested in:
+                Currently, I am a Statistics PhD student at Cornell Tech. My research interests are causal inference and non-parametric inference, with applications to personalized decision making. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>. My research is focused on developing statistical methods for causal inference and personalized decision making. I am particularly interested in:
                 <ol>
-                    <li>Causal inference: Non-parametric methods and kernel-based approaches</li>
-                    <li>Personalized decision making and treatment effect estimation</li>
-                    <li>Matrix completion and missing data problems</li>
+                    <li>Causal inference: Distributional and non-linear causal effect, Partial identification, Evaluation of personalization</li>
+                    <li>High-dimensional Central Limit Theorems: Markov chains, Reproducing kernel Hilbert spaces</li>
                 </ol>
             </div>
-
+            
             <div class="section">
                 <h2>Education</h2>
                 <div class="education-item">
