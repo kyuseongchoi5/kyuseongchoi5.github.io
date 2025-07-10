@@ -235,7 +235,7 @@
                 <h1>Welcome!</h1>
                 
                 <div class="bio">
-                    Currently, I am a Statistics PhD student at Cornell Tech. My current research interests are personalization in causal inference (via partial identification) and central limit theorems for high-dimensional data points. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+                    Currently, I am a Statistics PhD student at Cornell Tech. My current research interests include efficient and interpretable policy optimization, personalization in causal inference (via foundational models) and central limit theorems for high-dimensional data points. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
                 </div>
             </section>
 
