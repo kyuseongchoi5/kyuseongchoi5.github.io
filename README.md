@@ -256,6 +256,12 @@
                 <h2>Preprints</h2>
                 <div class="paper-item">
                     <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2510.02625">TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer</a>
+                    </div>
+                    <div class="authors">Jacob Feitelberg, Dwaipayan Saha, Kyuseong Choi, Zaid, Ahmad, Anish Agarwal, Raaz Dwivedi</div>
+                </div>
+                <div class="paper-item">
+                    <div class="paper-title">
                         <a href="https://arxiv.org/abs/2410.13381">Learning counterfactual distribution via kernel nearest neighbors</a>
                     </div>
                     <div class="authors">Kyuseong Choi, Jacob Feitelberg, Anish Agarwal, Raaz Dwivedi</div>
@@ -301,6 +307,10 @@
 
             <div class="section">
                 <h2>Working Papers</h2>
+                <div class="paper-item">
+                    <div class="paper-title">GRPO++: Improved policy optimization using ranked rewards</div>
+                    <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
+                </div>
                 <div class="paper-item">
                     <div class="paper-title">Wild regenerative block bootstrap for Harris recurrent Markov Chains</div>
                     <div class="authors">Kyuseong Choi, Gabriela Ciolek, Kengo Kato</div>
