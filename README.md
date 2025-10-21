@@ -256,6 +256,12 @@
                 <h2>Preprints</h2>
                 <div class="paper-item">
                     <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2510.17648v1">Wild regenerative block bootstrap for Harris recurrent Markov chains</a>
+                    </div>
+                    <div class="authors">Kyuseong Choi, Gabriella Ciolek</div>
+                </div>
+                <div class="paper-item">
+                    <div class="paper-title">
                         <a href="https://arxiv.org/abs/2510.02625">TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer</a>
                     </div>
                     <div class="authors">Jacob Feitelberg, Dwaipayan Saha, Kyuseong Choi, Zaid, Ahmad, Anish Agarwal, Raaz Dwivedi</div>
@@ -310,10 +316,6 @@
                 <div class="paper-item">
                     <div class="paper-title">GRPO++: Improved policy optimization using ranked rewards</div>
                     <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
-                </div>
-                <div class="paper-item">
-                    <div class="paper-title">Wild regenerative block bootstrap for Harris recurrent Markov Chains</div>
-                    <div class="authors">Kyuseong Choi, Gabriela Ciolek, Kengo Kato</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
