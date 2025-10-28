@@ -252,6 +252,18 @@
                 </div>
             </div>
 
+            <div class="section">
+                <h2>Working Papers</h2>
+                <div class="paper-item">
+                    <div class="paper-title">GRPO++: Improved policy optimization using ranked rewards</div>
+                    <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
+                </div>
+                <div class="paper-item">
+                    <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
+                    <div class="authors">Kyuseong Choi, Kengo Kato</div>
+                </div>
+            </div>
+
             <div class="section" id="publications">
                 <h2>Preprints</h2>
                 <div class="paper-item">
@@ -308,18 +320,6 @@
                     </div>
                     <div class="authors">Jeremy M.G. Taylor, Kyuseong Choi, Peisong Han</div>
                     <div class="venue">Biometrika, Volume 110, Issue 1, March 2023, Pages 119-134</div>
-                </div>
-            </div>
-
-            <div class="section">
-                <h2>Working Papers</h2>
-                <div class="paper-item">
-                    <div class="paper-title">GRPO++: Improved policy optimization using ranked rewards</div>
-                    <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
-                </div>
-                <div class="paper-item">
-                    <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
-                    <div class="authors">Kyuseong Choi, Kengo Kato</div>
                 </div>
             </div>
         </div>
