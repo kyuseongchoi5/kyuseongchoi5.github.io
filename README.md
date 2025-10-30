@@ -252,7 +252,7 @@
                 </div>
             </div>
 
-            div class="section" id="working experience">
+            <div class="section" id="working experience">
                 <h2>Education</h2>
                 <div class="education-item">
                     <div class="degree">Amazon, Pricing and Promotion Science (2025)</div>
