@@ -276,6 +276,7 @@
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2602.03876">GOPO: Policy Optimization using Ranked Rewards</a>
+                    </div>
                     <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
