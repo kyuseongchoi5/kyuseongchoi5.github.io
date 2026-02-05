@@ -262,7 +262,7 @@
             <div class="section">
                 <h2>Working Papers</h2>
                 <div class="paper-item">
-                    <div class="paper-title">GRPO++: Improved policy optimization using ranked rewards</div>
+                    <div class="paper-title">TabGRPO: Efficient policy optimization using Tabular Foundation models</div>
                     <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
@@ -278,6 +278,11 @@
                         <a href="https://arxiv.org/abs/2510.17648v1">Wild regenerative block bootstrap for Harris recurrent Markov chains</a>
                     </div>
                     <div class="authors">Kyuseong Choi, Gabriella Ciolek</div>
+                </div>
+                <div class="paper-item">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2602.03876">GOPO: Policy Optimization using Ranked Rewards</div>
+                    <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
