@@ -235,7 +235,7 @@
                 <h1>Welcome!</h1>
                 
                 <div class="bio">
-                    Currently, I am a Statistics PhD student at Cornell Tech. My current research interests include efficient and interpretable policy optimization, personalization in causal inference (via foundational models) and central limit theorems for high-dimensional data points. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+                    Currently, I am a Statistics PhD student at Cornell Tech. My current research interests include robust post-training of language models, matrix completion via foundational models, high-dimensional inference. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
                 </div>
             </section>
 
@@ -262,8 +262,8 @@
             <div class="section">
                 <h2>Working Papers</h2>
                 <div class="paper-item">
-                    <div class="paper-title">TabGRPO: Efficient policy optimization using Tabular Foundation models</div>
-                    <div class="authors">Kyuseong Choi, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="paper-title">ORCA-Bench: Are code agents ready for Oncall?</div>
+                    <div class="authors">Albert Gong, Kyuseong Choi, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
