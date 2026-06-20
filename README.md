@@ -235,7 +235,7 @@
                 <h1>Welcome!</h1>
                 
                 <div class="bio">
-                    Currently, I am a Statistics PhD student at Cornell Tech. My current research interests include robust post-training of language models, matrix completion via foundational models, high-dimensional inference. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+                    Currently, I am a Member of Technical Staff intern at <a href="https://www.traversal.com">Traveresal</a> and a Statistics PhD candidate at Cornell Tech. My current research interests include post-training of language models, foundational models for matrix completion and kernel methods. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
                 </div>
             </section>
 
@@ -255,6 +255,7 @@
             <div class="section" id="working">
                 <h2>Work Experience</h2>
                 <div class="working-item">
+                    <div class="degree">Member of Technical Staff intern, Traversal (2026)</div>
                     <div class="degree">Applied Scientist intern, Amazon, Pricing and Promotion Science (2025)</div>
                 </div>
             </div>
