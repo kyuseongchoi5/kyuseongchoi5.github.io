@@ -255,8 +255,8 @@
             <div class="section" id="working">
                 <h2>Work Experience</h2>
                 <div class="working-item">
-                    <div class="degree">Member of Technical Staff intern, *Traversal*, Research (2026)</div>
-                    <div class="degree">Applied Scientist intern, *Amazon*, Pricing and Promotion Science (2025)</div>
+                    <div class="degree">Member of Technical Staff intern, <em>Traversal</em>, Research (2026)</div>
+                    <div class="degree">Applied Scientist intern, <em>Amazon</em>, Pricing and Promotion Science (2025)</div>
                 </div>
             </div>
 
@@ -264,11 +264,11 @@
                 <h2>Working Papers</h2>
                 <div class="paper-item">
                     <div class="paper-title">ORCA-Bench: Are code agents ready for Oncall?</div>
-                    <div class="authors">Albert Gong, *Kyuseong Choi*, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
-                    <div class="authors">*Kyuseong Choi*, Kengo Kato</div>
+                    <div class="authors"><em>Kyuseong Choi</em>, Kengo Kato</div>
                 </div>
             </div>
 
@@ -278,37 +278,37 @@
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2602.03876">GOPO: Policy Optimization using Ranked Rewards</a>
                     </div>
-                    <div class="authors">*Kyuseong Choi*, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors"><em>Kyuseong Choi</em>, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2510.17648v1">Wild regenerative block bootstrap for Harris recurrent Markov chains</a>
                     </div>
-                    <div class="authors">*Kyuseong Choi*, Gabriella Ciolek</div>
+                    <div class="authors"><em>Kyuseong Choi</em>, Gabriella Ciolek</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2510.02625">TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer</a>
                     </div>
-                    <div class="authors">Jacob Feitelberg, Dwaipayan Saha, *Kyuseong Choi*, Zaid, Ahmad, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors">Jacob Feitelberg, Dwaipayan Saha, <em>Kyuseong Choi</em>, Zaid, Ahmad, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2410.13381">Learning counterfactual distribution via kernel nearest neighbors</a>
                     </div>
-                    <div class="authors">*Kyuseong Choi*, Jacob Feitelberg, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors"><em>Kyuseong Choi</em>, Jacob Feitelberg, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2410.13112">Distributional matrix completion via nearest neighbors in the Wasserstein space</a>
                     </div>
-                    <div class="authors">Jacob Feitelberg, *Kyuseong Choi*, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors">Jacob Feitelberg, <em>Kyuseong Choi</em>, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2506.04166">N2: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion</a>
                     </div>
-                    <div class="authors">Caleb Chin, Aashish Khubchandani, Harshvardhan Maskara, *Kyuseong Choi*, Jacob Feitelberg, Albert Gong, Manit Paul, Tathagata Sadhukhan, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors">Caleb Chin, Aashish Khubchandani, Harshvardhan Maskara, <em>Kyuseong Choi</em>, Jacob Feitelberg, Albert Gong, Manit Paul, Tathagata Sadhukhan, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
             </div>
 
@@ -318,21 +318,21 @@
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2410.13749">Supervised kernel thinning</a>
                     </div>
-                    <div class="authors">Albert Gong, *Kyuseong Choi*, Raaz Dwivedi</div>
+                    <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Raaz Dwivedi</div>
                     <div class="venue">NeurIPS 2024</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://academic.oup.com/biometrics/article/80/1/ujad005/7609159">Robust data integration from multiple external sources for generalized linear models with binary outcomes</a>
                     </div>
-                    <div class="authors">*Kyuseong Choi*, Jeremy M.G. Taylor, Peisong Han</div>
+                    <div class="authors"><em>Kyuseong Choi</em>, Jeremy M.G. Taylor, Peisong Han</div>
                     <div class="venue">Biometrics, Volume 80, Issue 1, March 2024</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://academic.oup.com/biomet/article-abstract/110/1/119/6567343">Data integration: exploiting ratios of parameter estimates from a reduced external model</a>
                     </div>
-                    <div class="authors">Jeremy M.G. Taylor, *Kyuseong Choi*, Peisong Han</div>
+                    <div class="authors">Jeremy M.G. Taylor, <em>Kyuseong Choi</em>, Peisong Han</div>
                     <div class="venue">Biometrika, Volume 110, Issue 1, March 2023, Pages 119-134</div>
                 </div>
             </div>
