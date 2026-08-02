@@ -235,7 +235,7 @@
                 <h1>Welcome!</h1>
                 
                 <div class="bio">
-                    Currently, I am a Member of Technical Staff intern at <a href="https://www.traversal.com">Traversal</a> and a Statistics PhD candidate at Cornell Tech. My current research interests include post-training of language models, foundational models for matrix completion and kernel methods. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+                    Currently, I am a Member of Technical Staff Intern at <a href="https://www.traversal.com">Traversal</a> and a Statistics PhD candidate at Cornell Tech. My current research interests include post-training of language models, foundational models for matrix completion and kernel methods. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
                 </div>
             </section>
 
@@ -263,10 +263,6 @@
             <div class="section">
                 <h2>Working Papers</h2>
                 <div class="paper-item">
-                    <div class="paper-title">ORCA-Bench: Are code agents ready for Oncall?</div>
-                    <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
-                </div>
-                <div class="paper-item">
                     <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
                     <div class="authors"><em>Kyuseong Choi</em>, Kengo Kato</div>
                 </div>
@@ -275,10 +271,16 @@
             <div class="section" id="publications">
                 <h2>Preprints</h2>
                 <div class="paper-item">
+                    <div class="paper-item">
+                        <div class="paper-title">ORCA-Bench: Are code agents ready for Oncall?</div>
+                    <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="venue">COLM 2026,CBW Workshop</div>
+                    </div>
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2602.03876">GOPO: Policy Optimization using Ranked Rewards</a>
                     </div>
                     <div class="authors"><em>Kyuseong Choi</em>, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="venue">COLM 2026,SciFM Workshop</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
