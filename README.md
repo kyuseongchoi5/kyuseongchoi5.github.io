@@ -239,21 +239,8 @@
                 </div>
             </section>
 
-            <div class="section" id="education">
-                <h2>Education</h2>
-                <div class="education-item">
-                    <div class="degree">Statistics, PhD, Cornell Tech (2021 - Present)</div>
-                </div>
-                <div class="education-item">
-                    <div class="degree">Biostatistics, MS, University of Michigan, Ann Arbor (2021)</div>
-                </div>
-                <div class="education-item">
-                    <div class="degree">BBA Business Administration, Korea University (2019)</div>
-                </div>
-            </div>
-
             <div class="section" id="working">
-                <h2>Work Experience</h2>
+                <h2>Employment</h2>
                 <div class="working-item">
                     <div class="degree">Member of Technical Staff intern, <em>Traversal</em>, Research (2026)</div>
                     <div class="degree">Applied Scientist intern, <em>Amazon</em>, Pricing and Promotion Science (2025)</div>
@@ -261,15 +248,11 @@
             </div>
 
             <div class="section">
-                <h2>Working Papers</h2>
+                <h2>Selected Works</h2>
                 <div class="paper-item">
                     <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
                     <div class="authors"><em>Kyuseong Choi</em>, Kengo Kato</div>
                 </div>
-            </div>
-
-            <div class="section" id="publications">
-                <h2>Preprints</h2>
                 <div class="paper-item">
                     <div class="paper-item">
                         <div class="paper-title">ORCA-Bench: Are code agents ready for Oncall?</div>
@@ -300,6 +283,28 @@
                     </div>
                     <div class="authors"><em>Kyuseong Choi</em>, Jacob Feitelberg, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
+            </div>
+
+
+            <div class="section" id="education">
+                <h2>Education</h2>
+                <div class="education-item">
+                    <div class="degree">Statistics, PhD, Cornell Tech (2021 - Present)</div>
+                </div>
+                <div class="education-item">
+                    <div class="degree">Biostatistics, MS, University of Michigan, Ann Arbor (2021)</div>
+                </div>
+                <div class="education-item">
+                    <div class="degree">BBA Business Administration, Korea University (2019)</div>
+                </div>
+            </div>
+
+            <div class="section" id="publications">
+                <h2>Preprints and Publications</h2>
+                <div class="paper-item">
+                    <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
+                    <div class="authors"><em>Kyuseong Choi</em>, Kengo Kato</div>
+                </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2410.13112">Distributional matrix completion via nearest neighbors in the Wasserstein space</a>
@@ -312,10 +317,6 @@
                     </div>
                     <div class="authors">Caleb Chin, Aashish Khubchandani, Harshvardhan Maskara, <em>Kyuseong Choi</em>, Jacob Feitelberg, Albert Gong, Manit Paul, Tathagata Sadhukhan, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
-            </div>
-
-            <div class="section">
-                <h2>Publications</h2>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2410.13749">Supervised kernel thinning</a>
