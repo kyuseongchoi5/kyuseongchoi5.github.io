@@ -235,7 +235,7 @@
                 <h1>Welcome!</h1>
                 
                 <div class="bio">
-                    Currently, I am a Member of Technical Staff Intern at <a href="https://www.traversal.com">Traversal</a> and a Statistics PhD candidate at Cornell Tech. My current research interests include post-training of language models, foundational models for matrix completion and kernel methods. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>.
+                    Currently, I am a Member of Technical Staff Intern at <a href="https://www.traversal.com">Traversal</a> and a Statistics PhD candidate at Cornell Tech. My current research interests include post-training of language models, foundational models for matrix completion and kernel methods. I am co-advised by <a href="https://raazdwivedi.github.io">Raaz Dwivedi</a> and <a href="https://sites.google.com/site/kkatostat/home/research?authuser=0">Kengo Kato</a>. I received MS in Biostatistics at University of Michigan, Ann Arbor and BBA Business Administration at Korea University.
                 </div>
             </section>
 
@@ -249,10 +249,6 @@
 
             <div class="section">
                 <h2>Selected Works</h2>
-                <div class="paper-item">
-                    <div class="paper-title">Gaussian approximation in Reproducing kernel Hilbert space, applications to kernel ridge regression</div>
-                    <div class="authors"><em>Kyuseong Choi</em>, Kengo Kato</div>
-                </div>
                 <div class="paper-item">
                     <div class="paper-item">
                         <div class="paper-title">ORCA-Bench: Are code agents ready for Oncall?</div>
@@ -285,20 +281,6 @@
                 </div>
             </div>
 
-
-            <div class="section" id="education">
-                <h2>Education</h2>
-                <div class="education-item">
-                    <div class="degree">Statistics, PhD, Cornell Tech (2021 - Present)</div>
-                </div>
-                <div class="education-item">
-                    <div class="degree">Biostatistics, MS, University of Michigan, Ann Arbor (2021)</div>
-                </div>
-                <div class="education-item">
-                    <div class="degree">BBA Business Administration, Korea University (2019)</div>
-                </div>
-            </div>
-
             <div class="section" id="publications">
                 <h2>Preprints and Publications</h2>
                 <div class="paper-item">
@@ -316,6 +298,7 @@
                         <a href="https://arxiv.org/abs/2506.04166">N2: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion</a>
                     </div>
                     <div class="authors">Caleb Chin, Aashish Khubchandani, Harshvardhan Maskara, <em>Kyuseong Choi</em>, Jacob Feitelberg, Albert Gong, Manit Paul, Tathagata Sadhukhan, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="venue">ICML 2025, CODEML Workshop</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
