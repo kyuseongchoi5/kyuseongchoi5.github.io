@@ -250,7 +250,7 @@
             <div class="section">
                 <h2>Selected Works</h2>
                 <div class="paper-item">
-                    <div class="paper-item">
+                    <div class="paper-title">
                         <a href="https://arxiv.org/abs/2607.28545">ORCA-Bench: Are code agents ready for Oncall?</a>
                     <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
                     <div class="venue">COLM 2026,CBW Workshop</div>
