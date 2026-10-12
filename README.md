@@ -253,7 +253,7 @@
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2607.28545">ORCA-Bench: Are code agents ready for Oncall?</a>
                     <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
-                    <div class="venue">COLM 2026,CBW Workshop</div>
+                    <div class="venue">COLM 2026,CBW Workshop (Oral)</div>
                     </div>
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2602.03876">GOPO: Policy Optimization using Ranked Rewards</a>
@@ -266,6 +266,7 @@
                         <a href="https://arxiv.org/abs/2510.17648v1">Wild regenerative block bootstrap for Harris recurrent Markov chains</a>
                     </div>
                     <div class="authors"><em>Kyuseong Choi</em>, Gabriella Ciolek</div>
+                    <div class="venue">Submitted to Electric Journal of Statistics</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
@@ -278,6 +279,7 @@
                         <a href="https://arxiv.org/abs/2410.13381">Learning counterfactual distribution via kernel nearest neighbors</a>
                     </div>
                     <div class="authors"><em>Kyuseong Choi</em>, Jacob Feitelberg, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="venue">RnR at Annals of Statistics</div>
                 </div>
             </div>
 
@@ -292,6 +294,7 @@
                         <a href="https://arxiv.org/abs/2410.13112">Distributional matrix completion via nearest neighbors in the Wasserstein space</a>
                     </div>
                     <div class="authors">Jacob Feitelberg, <em>Kyuseong Choi</em>, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="venue">Submitted to Operations Research</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
