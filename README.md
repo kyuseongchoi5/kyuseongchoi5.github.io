@@ -251,28 +251,36 @@
                 <h2>Selected Works</h2>
                 <div class="paper-item">
                     <div class="paper-title">
-                        <a href="https://arxiv.org/abs/2607.28545">ORCA-Bench: Are code agents ready for Oncall?</a>
-                    <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
-                    <div class="venue">COLM 2026,CBW Workshop (Oral)</div>
+                        <a href="https://arxiv.org/abs/2610.06751">Unifying matrix completion across domains with a synthetically pretrained foundation model</a>
                     </div>
+                    <div class="authors">Dwaipayan Saha, Jacob Feitelberg, <em>Kyuseong Choi</em>, Raaz Dwivedi, Anish Agarwal</div>
+                </div>
+                <div class="paper-item">
+                    <div class="paper-title">
+                        <a href="https://arxiv.org/abs/2607.28545">ORCA-Bench: Are code agents ready for Oncall?</a>
+                    </div>
+                    <div class="authors">Albert Gong, <em>Kyuseong Choi</em>, Abhineet Agarwal, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="venue">COLM 2026, CBW Workshop (Oral)</div>
+                </div>
+                <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2602.03876">GOPO: Policy Optimization using Ranked Rewards</a>
                     </div>
                     <div class="authors"><em>Kyuseong Choi</em>, Dwaipayan Saha, Woojeong Kim, Anish Agarwal, Raaz Dwivedi</div>
-                    <div class="venue">COLM 2026,SciFM Workshop</div>
+                    <div class="venue">COLM 2026, SciFM Workshop</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2510.17648v1">Wild regenerative block bootstrap for Harris recurrent Markov chains</a>
                     </div>
                     <div class="authors"><em>Kyuseong Choi</em>, Gabriella Ciolek</div>
-                    <div class="venue">Submitted to Electric Journal of Statistics</div>
+                    <div class="venue">Submitted to Electronic Journal of Statistics</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
                         <a href="https://arxiv.org/abs/2510.02625">TabImpute: Accurate and Fast Zero-Shot Missing-Data Imputation with a Pre-Trained Transformer</a>
                     </div>
-                    <div class="authors">Jacob Feitelberg, Dwaipayan Saha, <em>Kyuseong Choi</em>, Zaid, Ahmad, Anish Agarwal, Raaz Dwivedi</div>
+                    <div class="authors">Jacob Feitelberg, Dwaipayan Saha, <em>Kyuseong Choi</em>, Zaid Ahmad, Anish Agarwal, Raaz Dwivedi</div>
                 </div>
                 <div class="paper-item">
                     <div class="paper-title">
